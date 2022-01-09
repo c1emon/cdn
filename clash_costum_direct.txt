@@ -1,0 +1,7 @@
+payload:
+  - '+.ncepu.edu.cn'
+  - '+.hyzm.cc'
+  - '+.hs-api.limingkai.cn'
+  - '+.yacd.haishan.me'
+  - '+.clash.razord.top'
+  - '+.aidi.tv'
