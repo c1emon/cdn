@@ -1,0 +1,7 @@
+payload:
+  - '+.cert-manager.io'
+  - '+.traefik.io'
+  - '+.rarlab.com'
+  - '+.istio.io'
+  - '+.openvswitch.org'
+  - '+.newrelic.com'
