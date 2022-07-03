@@ -5,3 +5,4 @@ payload:
   - '+.istio.io'
   - '+.openvswitch.org'
   - '+.newrelic.com'
+  - '+.truenas.com'
