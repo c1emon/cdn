@@ -6,3 +6,5 @@ payload:
   - '+.openvswitch.org'
   - '+.newrelic.com'
   - '+.truenas.com'
+  - '+.freedesktop.org'
+  - '+.modemmanager.org'
