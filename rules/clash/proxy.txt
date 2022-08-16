@@ -8,3 +8,4 @@ payload:
   - '+.truenas.com'
   - '+.freedesktop.org'
   - '+.modemmanager.org'
+  - '+.tailscale.com'
