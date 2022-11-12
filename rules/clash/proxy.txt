@@ -9,3 +9,4 @@ payload:
   - '+.freedesktop.org'
   - '+.modemmanager.org'
   - '+.tailscale.com'
+  - '+.linkerd.io'
