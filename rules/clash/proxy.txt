@@ -11,3 +11,4 @@ payload:
   - '+.tailscale.com'
   - '+.linkerd.io'
   - '+.casdoor.org'
+  - '+.opnsense.org'
