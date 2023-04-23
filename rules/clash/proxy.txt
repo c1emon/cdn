@@ -12,3 +12,4 @@ payload:
   - '+.linkerd.io'
   - '+.casdoor.org'
   - '+.opnsense.org'
+  - '+.elastic.co'
